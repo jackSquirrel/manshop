@@ -1,15 +1,15 @@
 import React from 'react';
 import Header from './Components/Header';
 import TopLine from './Components/TopLine';
+import Title from './Components/Title';
 
 function App() {
   return (
     <div className="App">
       <TopLine />
       <Header />
-      {
-        //<Title />
-      }
+      <main className="content">
+        <Title />
       {
         //<NewSeason />
       }
@@ -25,6 +25,7 @@ function App() {
       {
         //<Brands />
       }
+      </main>
       {
         //<Footer />
       }

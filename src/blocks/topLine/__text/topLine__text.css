@@ -1,0 +1,9 @@
+.topLine__text {
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 0;
+    color: #969696;
+    white-space: pre;
+}
