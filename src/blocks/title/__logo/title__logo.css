@@ -1,0 +1,7 @@
+.title__logo {
+    width: 320px;
+    height: 320px;
+    border: 4px solid #fff;
+    margin: 160px auto 0;
+    box-sizing: border-box;
+}

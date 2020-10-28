@@ -1,0 +1,9 @@
+.title__text {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 24px;
+    max-width: 730px;
+    margin: 80px auto 154px;
+}

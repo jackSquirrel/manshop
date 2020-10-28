@@ -1,0 +1,8 @@
+.title__subtitle {
+    font-family: 'PT Sans';
+    font-size: 22px;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 12px auto 0;
+    max-width: 180px;
+}

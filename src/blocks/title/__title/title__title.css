@@ -1,0 +1,9 @@
+.title__title {
+    font-family: 'Post No Bills Jaffna Bold', sans-serif;
+    font-size: 64px;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 93px auto 0;
+    max-width: 185px;
+    border-bottom: 2px solid #fff;
+}
