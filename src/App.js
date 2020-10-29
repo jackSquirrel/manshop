@@ -2,6 +2,8 @@ import React from 'react';
 import Header from './Components/Header';
 import TopLine from './Components/TopLine';
 import Title from './Components/Title';
+import NewSeason from './Components/NewSeason';
+import NewCollection from './Components/NewCollection'
 
 function App() {
   return (
@@ -10,12 +12,8 @@ function App() {
       <Header />
       <main className="content">
         <Title />
-      {
-        //<NewSeason />
-      }
-      {
-        //<NewCollection />
-      }
+        <NewSeason />
+        <NewCollection />
       {
         //<LastCollection />
       }

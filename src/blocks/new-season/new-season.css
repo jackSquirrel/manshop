@@ -1,0 +1,14 @@
+@import url(./__title/new-season__title.css);
+@import url(./__items/new-season__items.css);
+
+.new-season {
+    max-width: 1040px;
+}
+
+.new-season hr {
+    height: 1px;
+    border: none;
+    background-color: #fff;
+    width: 120px;
+    margin: 50px auto;
+}

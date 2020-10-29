@@ -1,0 +1,6 @@
+.new-season__items {
+    max-width: calc(260px * 3 + 100px);
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto 93px;
+}

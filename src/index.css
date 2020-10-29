@@ -1,9 +1,12 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts/postNoBills/style.css);
 @import url(./vendor/fonts/PTSans/style.css);
+@import url(./vendor/fonts/PlayfairDisplay/style.css);
+@import url(./blocks/item/item.css);
 @import url(./blocks/topLine/topLine.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/title/title.css);
+@import url(./blocks/new-season/new-season.css);
 
 body {
   margin: 0;

@@ -1,0 +1,10 @@
+.new-season__title {
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    width: 376px;
+    margin: 93px auto 0;
+}
