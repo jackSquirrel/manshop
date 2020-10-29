@@ -1,0 +1,11 @@
+.section__button {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 12px 28px;
+    border: 1px solid #fff;
+    margin: 0 auto 100px;
+}

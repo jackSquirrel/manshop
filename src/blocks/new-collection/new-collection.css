@@ -1,0 +1,16 @@
+@import url(./__title/new-collection__title.css);
+
+.new-collection {
+    background-image: url(/src/images/new-season-img.jpg);
+    width: 880px;
+    display: flex;
+    flex-direction: column;
+}
+
+.new-collection hr {
+    border: none;
+    width: 120px;
+    height: 1px;
+    background-color: #fff;
+    margin: 30px auto; 
+}

@@ -2,7 +2,7 @@
 @import url(./__items/new-season__items.css);
 
 .new-season {
-    max-width: 1040px;
+    width: 1040px;
 }
 
 .new-season hr {
