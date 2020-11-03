@@ -2,6 +2,8 @@
 
 .new-collection {
     background-image: url(/src/images/new-season-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     width: 880px;
     display: flex;
     flex-direction: column;

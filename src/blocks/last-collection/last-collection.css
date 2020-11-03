@@ -1,0 +1,17 @@
+@import url(./__image/last-collection__image.css);
+@import url(./__content/last-collection__content.css);
+@import url(./__title/last-collection__title.css);
+@import url(./__text/last-collection__text.css);
+
+.last-collection {
+    display: flex;
+    width: 100%;
+}
+
+.last-collection hr {
+    border: none;
+    height: 1px;
+    width: 120px;
+    margin: 40px auto;
+    background-color: #fff;
+}
