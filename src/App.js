@@ -5,6 +5,7 @@ import Title from './Components/Title';
 import NewSeason from './Components/NewSeason';
 import NewCollection from './Components/NewCollection';
 import LastCollection from './Components/LastCollection';
+import NewGoods from './Components/NewGoods';
 
 function App() {
   return (
@@ -18,9 +19,7 @@ function App() {
           <NewCollection />
         </div>
         <LastCollection />
-      {
-        //<NewGoods />
-      }
+        <NewGoods />
       {
         //<Brands />
       }

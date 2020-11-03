@@ -1,0 +1,15 @@
+@import url(./__title/new-goods__title.css);
+@import url(./__container/new-goods__container.css);
+
+.new-goods {
+    display: flex;
+    flex-direction: column;
+}
+
+.new-goods hr {
+    border: none;
+    height: 1px;
+    background-color: #fff;
+    width: 120px;
+    margin: 40px auto;
+}

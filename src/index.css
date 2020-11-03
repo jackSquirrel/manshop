@@ -10,6 +10,7 @@
 @import url(./blocks/new-season/new-season.css);
 @import url(./blocks/new-collection/new-collection.css);
 @import url(./blocks/last-collection/last-collection.css);
+@import url(./blocks/new-goods/new-goods.css);
 
 body {
   margin: 0;
