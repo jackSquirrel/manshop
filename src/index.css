@@ -11,6 +11,7 @@
 @import url(./blocks/new-collection/new-collection.css);
 @import url(./blocks/last-collection/last-collection.css);
 @import url(./blocks/new-goods/new-goods.css);
+@import url(./blocks/brands/brands.css);
 
 body {
   margin: 0;

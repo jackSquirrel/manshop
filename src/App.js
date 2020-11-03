@@ -6,6 +6,7 @@ import NewSeason from './Components/NewSeason';
 import NewCollection from './Components/NewCollection';
 import LastCollection from './Components/LastCollection';
 import NewGoods from './Components/NewGoods';
+import Brands from './Components/Brands';
 
 function App() {
   return (
@@ -20,9 +21,7 @@ function App() {
         </div>
         <LastCollection />
         <NewGoods />
-      {
-        //<Brands />
-      }
+        <Brands />
       </main>
       {
         //<Footer />

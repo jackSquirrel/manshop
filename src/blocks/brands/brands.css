@@ -1,0 +1,16 @@
+@import url(./__title/brands__title.css);
+@import url(./__logos/brands__logos.css);
+
+.brands {
+    display: flex;
+    flex-direction: column;
+    background-color: #0f0f0f;
+}
+
+.brands hr {
+    border: none;
+    height: 1px;
+    background-color: #fff;
+    width: 120px;
+    margin: 40px auto;
+}
