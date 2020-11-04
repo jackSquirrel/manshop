@@ -1,7 +1,8 @@
 # Men's store
 Тестовый проект для закрепления навыков использования фреймворка React.js и верстки с помощью компонентного подхода. \
 Сайт предназначен для разрешения экрана 1920px. На разрешениях экрана меньше 1920px некоторые секции могут выглядеть некорректно. Кроссбраузерность и адаптивность не предусмотрена. \
-Шаблон сайта взят с [https://figma.info/](https://figma.info/)
+Шаблон сайта взят с [https://figma.info/](https://figma.info/) \
+Демо сайта: [https://jacksquirrel.github.io/manshop/](https://jacksquirrel.github.io/manshop/)
 
 ## Available Scripts
 
