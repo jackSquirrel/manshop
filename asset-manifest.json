@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/manshop/static/css/main.61874e3d.chunk.css",
+    "main.js": "/manshop/static/js/main.0dd484c0.chunk.js",
+    "main.js.map": "/manshop/static/js/main.0dd484c0.chunk.js.map",
+    "runtime-main.js": "/manshop/static/js/runtime-main.58c1a043.js",
+    "runtime-main.js.map": "/manshop/static/js/runtime-main.58c1a043.js.map",
+    "static/js/2.c14d1986.chunk.js": "/manshop/static/js/2.c14d1986.chunk.js",
+    "static/js/2.c14d1986.chunk.js.map": "/manshop/static/js/2.c14d1986.chunk.js.map",
+    "index.html": "/manshop/index.html",
+    "static/css/main.61874e3d.chunk.css.map": "/manshop/static/css/main.61874e3d.chunk.css.map",
+    "static/js/2.c14d1986.chunk.js.LICENSE.txt": "/manshop/static/js/2.c14d1986.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/manshop/static/media/title-img.dba0ee74.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58c1a043.js",
+    "static/js/2.c14d1986.chunk.js",
+    "static/css/main.61874e3d.chunk.css",
+    "static/js/main.0dd484c0.chunk.js"
+  ]
+}
