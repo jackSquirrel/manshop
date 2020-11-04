@@ -12,6 +12,7 @@
 @import url(./blocks/last-collection/last-collection.css);
 @import url(./blocks/new-goods/new-goods.css);
 @import url(./blocks/brands/brands.css);
+@import url(./blocks/footer/footer.css);
 
 body {
   margin: 0;

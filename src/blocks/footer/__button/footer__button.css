@@ -1,0 +1,14 @@
+.footer__button {
+    width: 140px;
+    height: 42px;
+    background-color: #0f0f0f;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+}

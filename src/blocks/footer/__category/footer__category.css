@@ -1,0 +1,10 @@
+.footer__category {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    color: #d0d0d0;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 20px 20px 0;
+    background-color: #0f0f0f;
+}

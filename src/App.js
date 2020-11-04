@@ -7,6 +7,7 @@ import NewCollection from './Components/NewCollection';
 import LastCollection from './Components/LastCollection';
 import NewGoods from './Components/NewGoods';
 import Brands from './Components/Brands';
+import Footer from './Components/Footer/Footer';
 
 function App() {
   return (
@@ -23,9 +24,7 @@ function App() {
         <NewGoods />
         <Brands />
       </main>
-      {
-        //<Footer />
-      }
+        <Footer />
     </div>
   );
 }

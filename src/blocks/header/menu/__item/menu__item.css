@@ -1,5 +1,4 @@
 @import url(./_active/menu__item_active.css);
-@import url(./_image/menu__item_image.css);
 
 .menu__item {
  display: inline-block;

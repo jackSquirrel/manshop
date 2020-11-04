@@ -1,0 +1,12 @@
+@import url(./__container/footer__container.css);
+@import url(./__title/footer__title.css);
+@import url(./__text/footer__text.css);
+@import url(./__block/footer__block.css);
+@import url(./__category/footer__category.css);
+@import url(./__form/footer__form.css);
+@import url(./__email/footer__email.css);
+@import url(./__button/footer__button.css);
+
+.footer {
+    background-image: url(/src/images/footer.jpg);
+}

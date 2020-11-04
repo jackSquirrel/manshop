@@ -1,0 +1,38 @@
+.footer__email {
+    width: 210px;
+    height: 42px;
+    background: rgba(255, 255, 255, 0.4);
+    border: none;
+    box-sizing: border-box;
+    color: #969696;
+    padding: 10px 15px;
+    outline: none;
+
+}
+
+::-webkit-input-placeholder {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    color: #969696;
+  }
+  
+  ::-moz-placeholder {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    color: #969696;
+  }
+  
+  :-moz-placeholder {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    color: #969696;
+  }
+  :-ms-input-placeholder {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    color: #969696;
+  }
